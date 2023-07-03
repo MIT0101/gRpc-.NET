@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4k/tFuI19wQJYEsyHB58PvRfWqfYDyBgDYlXOlaFzPI=",
+  "Source": "Grpc-Service-Demo",
+  "BasePath": "_content/Grpc-Service-Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
